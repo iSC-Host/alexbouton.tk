@@ -1,0 +1,14 @@
+{
+  "name": "alexbouton.tk",
+  "version": "1.0.0",
+  "homepage": "http://isc-host.github.io/alexbouton.tk",
+  "authors": [
+    "Suriyaa Kudo <SuriyaaKudoIsc@users.noreply.github.com>"
+  ],
+  "description": "The official website of Alexander Bouton.",
+  "main": "index.html",
+  "license": "Copyright & MIT",
+  "dependencies": {
+    "octicons": "~2.1.2"
+  }
+}

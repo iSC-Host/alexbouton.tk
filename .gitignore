@@ -9,3 +9,6 @@
 
 # Ignore all logfiles and tempfiles.
 .DS_Store
+
+# Ignore .zip file
+read-only-993499829.zip
